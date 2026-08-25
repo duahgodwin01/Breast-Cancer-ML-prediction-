@@ -75,12 +75,12 @@ There's room to extend this with convolutional neural networks for direct mammog
 
 ## References
 
-Fatima, N., et al. (2020). Prediction of Breast Cancer. IEEE Access. https://doi.org/10.1109/ACCESS.2020.3016715
+American Cancer Society. (2024). Breast cancer facts & figures 2024–2025. https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/breast-cancer-facts-and-figures/2024/breast-cancer-facts-and-figures-2024.pdf
 
-Rabiei, R., et al. (2022). Prediction of Breast Cancer using Machine Learning Approaches. Journal of Biomedical Physics & Engineering.
+Fatima, N., Liu, L., Hong, S., & Ahmed, H. (2020). Prediction of breast cancer, comparative review of machine learning techniques, and their analysis. IEEE Access, 8, 150360–150376. https://doi.org/10.1109/ACCESS.2020.3016715
 
-Ribli, D., et al. (2018). Detecting and classifying lesions in mammograms with Deep Learning. Scientific Reports.
+Rabiei, R., Ayyoubzadeh, S. M., Sohrabei, S., Esmaeili, M., & Atashi, A. (2022). Prediction of breast cancer using machine learning approaches. Journal of Biomedical Physics and Engineering, 12(3), 297–308. https://doi.org/10.31661/jbpe.v0i0.2109-1403
 
-Stark, G. F., et al. (2019). Predicting breast cancer risk. PLOS ONE. https://doi.org/10.1371/journal.pone.0226765
+Ribli, D., Horváth, A., Unger, Z., Pollner, P., & Csabai, I. (2018). Detecting and classifying lesions in mammograms with deep learning. Scientific Reports, 8, Article 4165. https://doi.org/10.1038/s41598-018-22437-z
 
-American Cancer Society. Breast Cancer Facts & Figures 2024 to 2025.
+Stark, G. F., Hart, G. R., Nartowt, B. J., & Deng, J. (2019). Predicting breast cancer risk using personal health data and machine learning models. PLOS ONE, 14(12), Article e0226765. https://doi.org/10.1371/journal.pone.0226765 
