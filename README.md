@@ -2,7 +2,7 @@
 
 This project classifies breast tumors as benign or malignant using classical supervised machine learning. Recall was treated as the most important metric throughout, since in this context a missed diagnosis is far more costly than a false alarm.
 
-**Team:** Godwin Gyamfi Duah, Feranmi Paul Adepoju, Khadka Ujjwal
+**Team:** **Godwin Gyamfi Duah**, Feranmi Paul Adepoju, Khadka Ujjwal
 **Course:** CISC 525, Big Data Architectures, Harrisburg University of Science & Technology (April 2026)
 
 ## Overview
