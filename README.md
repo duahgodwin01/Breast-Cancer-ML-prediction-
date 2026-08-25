@@ -4,7 +4,13 @@ This project classifies breast tumors as benign or malignant using classical sup
 
 **Team:** **Godwin Gyamfi Duah**, Feranmi Paul Adepoju, Khadka Ujjwal
 
-**Course:** CISC 525, Big Data Architectures, Harrisburg University of Science & Technology (April 2026)
+**School:** Harrisburg University of Science and Technology 
+
+**Course:** CISC 525 - Big Data Architectures
+
+**Date:** April 2026
+
+**Supervisor:** Sangwhan Cha, PhD 
 
 ## Overview
 
