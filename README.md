@@ -15,7 +15,7 @@ This project trains and compares four classical machine learning algorithms on t
 
 ## Dataset
 
-The data comes from the [Breast Cancer Wisconsin Diagnostic Dataset](https://www.kaggle.com/datasets/neurocipher/breast-cancer-dataset/data), originally assembled by Dr. William H. Wolberg at the University of Wisconsin, Madison. It contains 569 patient records and 30 numeric features drawn from fine needle aspirate images of breast masses, split across two classes: benign and malignant.
+The data comes from the [Breast Cancer Wisconsin Diagnostic Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?select=breast-cancer), originally assembled by Dr. William H. Wolberg at the University of Wisconsin, Madison. It contains 569 patient records and 30 numeric features drawn from fine needle aspirate images of breast masses, split across two classes: benign and malignant.
 
 The most clinically relevant features include radius mean, texture mean, concavity mean, area mean, smoothness mean, and compactness mean, each capturing a different aspect of tumor shape and structure.
 
